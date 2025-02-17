@@ -53,18 +53,18 @@ jobs:
           plugin_lines_sections: base
           plugin_repositories: yes
           plugin_repositories_order: featured, pinned, starred, random
-          plugin_stargazers: yes
-          plugin_stargazers_charts: yes
+          plugin_stargazers: no
+          plugin_stargazers_charts: no
           plugin_stargazers_charts_type: classic
           plugin_stargazers_days: 14
-          plugin_starlists: yes
+          plugin_starlists: no
           plugin_starlists_limit: 2
           plugin_starlists_limit_languages: 8
           plugin_starlists_limit_repositories: 2
-          plugin_starlists_shuffle_repositories: yes
-          plugin_stars: yes
+          plugin_starlists_shuffle_repositories: no
+          plugin_stars: no
           plugin_stars_limit: 4
-          plugin_topics: yes
+          plugin_topics: no
           plugin_topics_limit: 15
           plugin_topics_mode: starred
           plugin_topics_sort: stars
